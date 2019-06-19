@@ -1,0 +1,103 @@
+[2018-08-18 11:36:23.302] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-18 11:36:23.314] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-18 11:36:23.393] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-18 11:36:23.427] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-18 11:36:23.594] [ERROR] Query - Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[2018-08-18 11:49:58.412] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-18 11:49:58.423] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-18 11:49:58.459] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-18 11:49:58.463] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-18 11:49:58.672] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-08-18 11:49:58.672] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-08-18 11:49:58.677] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-08-18 11:49:58.677] [DEBUG] Query - name: mycc, version: 1.0, path: github.com/hyperledger/fabric/examples/chaincode/go/chaincode_example02
+[2018-08-18 11:49:58.708] [DEBUG] Query - ===========================================
+[2018-08-18 11:49:58.708] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 89 ce 45 02 e0 94 1e 48 d4 8c 86 9d de 06 fe 8e 60 a2 f5 22 e2 28 78 8a 57 c3 e3 84 31 80 23 02 1a 20 99 53 8e 63 03 4d 87 c4 6a cf c5 57 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-08-18 11:49:58.709] [DEBUG] Query - ===========================================
+[2018-08-18 11:49:58.718] [DEBUG] Query - ===========================================
+[2018-08-18 11:49:58.718] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 89 ce 45 02 e0 94 1e 48 d4 8c 86 9d de 06 fe 8e 60 a2 f5 22 e2 28 78 8a 57 c3 e3 84 31 80 23 02 1a 20 99 53 8e 63 03 4d 87 c4 6a cf c5 57 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-08-18 11:49:58.718] [DEBUG] Query - ===========================================
+[2018-08-18 11:54:48.667] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer0.org2.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org2.example.com' } ]
+[2018-08-18 11:57:04.047] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer0.org2.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org2.example.com' } ]
+[2018-08-18 12:13:04.679] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer0.org2.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org2.example.com' } ]
+[2018-08-18 12:13:04.680] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer0.org2.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org2.example.com' } ]
+[2018-08-18 12:13:04.681] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer0.org2.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org2.example.com' } ]
+[2018-08-18 13:25:59.241] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:30:59.272] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:34:15.172] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:47:28.287] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:52:28.673] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:53:28.668] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:54:28.671] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:55:28.649] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:56:29.237] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:57:48.668] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:58:28.687] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 13:59:28.662] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-18 14:14:20.019] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-18 14:14:20.031] [DEBUG] FabricConfiguration - Msp ID : Org1MSP

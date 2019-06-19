@@ -1,0 +1,127 @@
+[2018-08-17 12:58:00.918] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 12:58:00.938] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 13:15:14.323] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 13:15:14.334] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 13:19:23.615] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 13:19:23.626] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 13:34:28.815] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 13:34:28.865] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 16:41:56.514] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 16:41:56.531] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:28:40.267] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:28:40.306] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:28:40.328] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:28:40.339] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:28:40.977] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-08-17 17:28:40.977] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-08-17 17:28:41.157] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-08-17 17:28:41.157] [DEBUG] Query - name: mycc, version: 1.0, path: github.com/hyperledger/fabric/examples/chaincode/go/chaincode_example02
+[2018-08-17 17:28:41.856] [DEBUG] Query - ===========================================
+[2018-08-17 17:28:41.856] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 4f 8e f0 58 2f 13 2b 37 d3 12 18 45 03 6f de 2d fa 18 87 e1 70 19 2a 54 27 74 26 e2 eb 30 c7 e6 1a 20 b5 98 f7 50 3a 0c 23 e2 89 b0 2b 48 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-08-17 17:28:41.858] [DEBUG] Query - ===========================================
+[2018-08-17 17:28:41.972] [DEBUG] Query - ===========================================
+[2018-08-17 17:28:41.973] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 4f 8e f0 58 2f 13 2b 37 d3 12 18 45 03 6f de 2d fa 18 87 e1 70 19 2a 54 27 74 26 e2 eb 30 c7 e6 1a 20 b5 98 f7 50 3a 0c 23 e2 89 b0 2b 48 ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-08-17 17:28:41.973] [DEBUG] Query - ===========================================
+[2018-08-17 17:34:09.330] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer0.org2.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org2.example.com' } ]
+[2018-08-17 17:35:27.071] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer0.org2.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org2.example.com' } ]
+[2018-08-17 17:42:16.985] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-17 17:43:01.878] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:43:01.890] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:43:01.893] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:43:01.896] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:43:01.917] [ERROR] Query - Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[2018-08-17 17:46:27.154] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:46:27.211] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:46:27.310] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:46:27.322] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:46:27.391] [ERROR] Query - Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[2018-08-17 17:46:57.740] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-17 17:50:18.391] [ERROR] metricservice - TypeError: Cannot read property 'length' of null
+    at MetricService.getPeerData (/home/rpqb-desk-001/blockchain-explorer/app/persistence/postgreSQL/MetricService.js:36:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-08-17 17:53:05.096] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:53:05.121] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:53:05.177] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:53:05.181] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:53:05.295] [ERROR] Query - Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[2018-08-17 17:54:21.175] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:54:21.188] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 17:54:21.191] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:54:21.193] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 17:54:21.216] [ERROR] Query - Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[2018-08-17 18:01:55.661] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 18:01:55.714] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 18:01:55.882] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 18:01:55.893] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 18:01:56.593] [ERROR] Query - Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[2018-08-17 18:36:10.889] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 18:36:10.935] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 18:53:35.968] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 18:53:35.991] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2018-08-17 18:53:36.039] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 18:53:36.042] [DEBUG] FabricConfiguration - Msp ID : Org2MSP
+[2018-08-17 18:53:36.735] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-08-17 18:53:36.735] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2018-08-17 18:53:37.211] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2018-08-17 18:53:37.211] [DEBUG] Query - name: mycc, version: 1.0, path: github.com/hyperledger/fabric/examples/chaincode/go/chaincode_example02
+[2018-08-17 18:53:39.209] [DEBUG] Query - ===========================================
+[2018-08-17 18:53:39.209] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 8c 15 cf 5d 6b eb 2d f5 4c 8b 46 15 4f 7b fc c5 c3 4a 84 17 05 26 a0 39 bd bb 8b 9b 21 70 9c cc 1a 20 53 23 83 c1 67 0e 10 01 7d 92 ac 8b ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-08-17 18:53:39.210] [DEBUG] Query - ===========================================
+[2018-08-17 18:53:39.275] [DEBUG] Query - ===========================================
+[2018-08-17 18:53:39.275] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 05 12 20 8c 15 cf 5d 6b eb 2d f5 4c 8b 46 15 4f 7b fc c5 c3 4a 84 17 05 26 a0 39 bd bb 8b 9b 21 70 9c cc 1a 20 53 23 83 c1 67 0e 10 01 7d 92 ac 8b ... >,
+  offset: 4,
+  markedOffset: -1,
+  limit: 36,
+  littleEndian: true,
+  noAssert: false }
+[2018-08-17 18:53:39.275] [DEBUG] Query - ===========================================
+[2018-08-17 18:54:02.724] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer0.org2.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org2.example.com' } ]
+[2018-08-17 19:06:12.706] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org1.example.com' },
+  { status: 'DOWN', server_hostname: 'peer0.org2.example.com' },
+  { status: 'DOWN', server_hostname: 'peer1.org2.example.com' } ]

@@ -1,0 +1,782 @@
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:16803) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, open '../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/tls/ca.crt'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at configuration.getPeersByOrg.forEach.key (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:158:23)
+    at Array.forEach (<anonymous>)
+    at Platform.setupPeers (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:155:38)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:148:12)
+    at <anonymous>
+(node:16803) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:16803) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:17932) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, open '../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/tls/ca.crt'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at configuration.getPeersByOrg.forEach.key (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:158:23)
+    at Array.forEach (<anonymous>)
+    at Platform.setupPeers (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:155:38)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:148:12)
+    at <anonymous>
+(node:17932) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:17932) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:18207) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, open '../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/tls/ca.crt'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at configuration.getPeersByOrg.forEach.key (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:158:23)
+    at Array.forEach (<anonymous>)
+    at Platform.setupPeers (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:155:38)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:148:12)
+    at <anonymous>
+(node:18207) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:18207) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:19193) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, open '../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/tls/ca.crt'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at configuration.getPeersByOrg.forEach.key (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:158:23)
+    at Array.forEach (<anonymous>)
+    at Platform.setupPeers (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:155:38)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:148:12)
+    at <anonymous>
+(node:19193) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:19193) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:20808) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, scandir '..../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore'
+    at Object.fs.readdirSync (fs.js:904:18)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:25:18)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:20808) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:20808) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:22276) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, scandir '.../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore'
+    at Object.fs.readdirSync (fs.js:904:18)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:25:18)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:22276) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:22276) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:22316) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, scandir '.../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore'
+    at Object.fs.readdirSync (fs.js:904:18)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:25:18)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:22316) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:22316) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Closed out remaining connections
+Closed out remaining connections
+Closed out remaining connections
+Closed out remaining connections
+Closed out remaining connections
+Closed out remaining connections
+Closed out remaining connections
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:3539) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, open '../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/tls/ca.crt'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at configuration.getPeersByOrg.forEach.key (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:158:23)
+    at Array.forEach (<anonymous>)
+    at Platform.setupPeers (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:155:38)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:148:12)
+    at <anonymous>
+(node:3539) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:3539) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:5043) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, scandir './parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/signcerts'
+    at Object.fs.readdirSync (fs.js:904:18)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:25:18)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:80:26)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:5043) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:5043) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+Property config.syncStartDate set to  2018/07/10
+
+
+Please open web browser to access ：http://localhost:8080/
+
+
+pid is 6874
+
+
+Insert sql is INSERT INTO orderer  ( "requests","server_hostname" ) VALUES( $1,$2  ) RETURNING *;
+INSERT ID: 1
+Insert sql is INSERT INTO chaincodes  ( "name","version","path","genesis_block_hash" ) VALUES( $1,$2,$3,$4  ) RETURNING *;
+Insert sql is INSERT INTO peer  ( "requests","genesis_block_hash","server_hostname" ) VALUES( $1,$2,$3  ) RETURNING *;
+INSERT ID: 10
+INSERT ID: 1
+Insert sql is INSERT INTO channel  ( "name","createdt","blocks","trans","channel_hash","genesis_block_hash" ) VALUES( $1,$2,$3,$4,$5,$6  ) RETURNING *;
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 3
+INSERT ID: 1
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 6
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 2
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 7
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 3
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 8
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 4
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 9
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 5
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 10
+Successfully received the block event[object Object]
+E0817 17:34:09.329213538    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:34:10.297673828    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:34:11.971410436    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:34:14.634115575    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:34:19.163060549    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:34:26.596315845    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:34:37.223430541    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:34:54.370350471    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:35:27.071048240    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:36:01.823325134    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:6874) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+E0817 17:37:27.348107208    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+Failed to receive the block event ::Error: 14 UNAVAILABLE: EOF
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+E0817 17:39:27.531012217    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:39:27.646869735    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:39:28.529271592    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:39:30.443180642    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:39:32.816494817    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:39:37.079657465    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:39:44.051536028    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:39:55.521946775    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:39:56.949863020    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [Orderer.js]: sendDeliver - on error code 14: "Error: 14 UNAVAILABLE: Connect Failed\n    at createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)\n    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)"
+(node:6874) UnhandledPromiseRejectionWarning: Error: SERVICE_UNAVAILABLE
+    at ClientDuplexStream.<anonymous> (/home/rpqb-desk-001/blockchain-explorer/node_modules/fabric-client/lib/Orderer.js:266:23)
+    at emitOne (events.js:116:13)
+    at ClientDuplexStream.emit (events.js:211:7)
+    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:271:12)
+    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)
+    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+E0817 17:39:57.950487533    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:39:59.802926998    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:40:02.563319274    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:40:06.532154895    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:40:09.395605636    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+E0817 17:40:13.937414323    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+E0817 17:40:23.486979859    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [Orderer.js]: sendDeliver - on error code 14: "Error: 14 UNAVAILABLE: Connect Failed\n    at createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)\n    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)"
+(node:6874) UnhandledPromiseRejectionWarning: Error: SERVICE_UNAVAILABLE
+    at ClientDuplexStream.<anonymous> (/home/rpqb-desk-001/blockchain-explorer/node_modules/fabric-client/lib/Orderer.js:266:23)
+    at emitOne (events.js:116:13)
+    at ClientDuplexStream.emit (events.js:211:7)
+    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:271:12)
+    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)
+    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+E0817 17:40:35.613174568    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:40:37.553145244    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:41:03.545610126    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:41:12.170146359    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:41:23.412782846    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:41:46.275735449    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:42:20.502639098    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/node_modules/fabric-client/lib/Orderer.js:194:20)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+E0817 17:42:55.685047153    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [Orderer.js]: sendDeliver - on error code 14: "Error: 14 UNAVAILABLE: Connect Failed\n    at createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)\n    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)"
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+E0817 17:43:01.914288792   10542 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [Client.js]: Failed Channels Query. Error: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+(node:10542) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'forEach' of undefined
+    at Platform.setChannels (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:188:26)
+    at <anonymous>
+(node:10542) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:10542) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+E0817 17:43:02.915257636   10542 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:43:04.470410458   10542 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:43:06.219129159    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:43:07.351257267   10542 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:43:52.283654997    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:44:24.276767806    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:45:01.025202981    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/node_modules/fabric-client/lib/Orderer.js:194:20)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 10)
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/node_modules/fabric-client/lib/Orderer.js:194:20)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 11)
+E0817 17:46:06.997097390    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+E0817 17:46:27.386760668   11127 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [Client.js]: Failed Channels Query. Error: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+(node:11127) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'forEach' of undefined
+    at Platform.setChannels (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:188:26)
+    at <anonymous>
+(node:11127) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:11127) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+E0817 17:46:28.386395825   11127 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:46:30.273248047   11127 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:46:32.627813877   11127 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:46:43.776232452    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:46:46.064356234    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [Orderer.js]: sendDeliver - on error code 14: "Error: 14 UNAVAILABLE: Connect Failed\n    at createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)\n    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)"
+(node:6874) UnhandledPromiseRejectionWarning: Error: SERVICE_UNAVAILABLE
+    at ClientDuplexStream.<anonymous> (/home/rpqb-desk-001/blockchain-explorer/node_modules/fabric-client/lib/Orderer.js:266:23)
+    at emitOne (events.js:116:13)
+    at ClientDuplexStream.emit (events.js:211:7)
+    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:271:12)
+    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)
+    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 12)
+[31merror[39m: [Orderer.js]: sendDeliver - on error code 14: "Error: 14 UNAVAILABLE: Connect Failed\n    at createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)\n    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)"
+[31merror[39m: [Orderer.js]: sendDeliver - on error code 14: "Error: 14 UNAVAILABLE: Connect Failed\n    at createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)\n    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)"
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 13)
+E0817 17:48:23.818947751    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:48:30.927679396    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:48:34.108707110    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [Orderer.js]: sendDeliver - on error code 14: "Error: 14 UNAVAILABLE: Connect Failed\n    at createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)\n    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)"
+(node:6874) UnhandledPromiseRejectionWarning: Error: SERVICE_UNAVAILABLE
+    at ClientDuplexStream.<anonymous> (/home/rpqb-desk-001/blockchain-explorer/node_modules/fabric-client/lib/Orderer.js:266:23)
+    at emitOne (events.js:116:13)
+    at ClientDuplexStream.emit (events.js:211:7)
+    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:271:12)
+    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)
+    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 14)
+[31merror[39m: [Orderer.js]: sendDeliver - on error code 14: "Error: 14 UNAVAILABLE: Connect Failed\n    at createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)\n    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)"
+(node:6874) UnhandledPromiseRejectionWarning: Error: SERVICE_UNAVAILABLE
+    at ClientDuplexStream.<anonymous> (/home/rpqb-desk-001/blockchain-explorer/node_modules/fabric-client/lib/Orderer.js:266:23)
+    at emitOne (events.js:116:13)
+    at ClientDuplexStream.emit (events.js:211:7)
+    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:271:12)
+    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)
+    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 15)
+E0817 17:50:03.678111929    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 17:50:26.339190418    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [Orderer.js]: sendDeliver - on error code 14: "Error: 14 UNAVAILABLE: Connect Failed\n    at createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)\n    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)"
+(node:6874) UnhandledPromiseRejectionWarning: Error: SERVICE_UNAVAILABLE
+    at ClientDuplexStream.<anonymous> (/home/rpqb-desk-001/blockchain-explorer/node_modules/fabric-client/lib/Orderer.js:266:23)
+    at emitOne (events.js:116:13)
+    at ClientDuplexStream.emit (events.js:211:7)
+    at ClientDuplexStream._emitStatusIfDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:271:12)
+    at ClientDuplexStream._readsDone (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:236:8)
+    at readCallback (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:296:12)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 16)
+E0817 17:50:41.375595318    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:6874) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:6874) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 17)
+E0817 17:51:40.536939608    6874 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Closed out remaining connections
+Closed out remaining connections
+Closed out remaining connections
+Received kill signal, shutting down gracefully
+Closed out remaining connections
+Closed out remaining connections
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+E0817 17:53:05.278760954   14769 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [Client.js]: Failed Channels Query. Error: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+(node:14769) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'forEach' of undefined
+    at Platform.setChannels (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:188:26)
+    at <anonymous>
+(node:14769) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:14769) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+E0817 17:53:06.266413565   14769 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:53:08.060241006   14769 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:53:10.755551951   14769 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+E0817 17:54:21.213484687   14919 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [Client.js]: Failed Channels Query. Error: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+(node:14919) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'forEach' of undefined
+    at Platform.setChannels (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:188:26)
+    at <anonymous>
+(node:14919) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:14919) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+E0817 17:54:22.214093038   14919 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:54:23.629765650   14919 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 17:54:26.247601356   14919 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+E0817 18:01:56.584102704   18323 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [Client.js]: Failed Channels Query. Error: Error: 14 UNAVAILABLE: Connect Failed
+    at new createStatusError (/home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/rpqb-desk-001/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+(node:18323) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'forEach' of undefined
+    at Platform.setChannels (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:188:26)
+    at <anonymous>
+(node:18323) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:18323) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+E0817 18:01:57.080405583   18323 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 18:01:58.929325358   18323 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+E0817 18:02:01.802854981   18323 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:25241) UnhandledPromiseRejectionWarning: Error: EACCES: permission denied, open '../parametericInsurance_backend/first-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore/add27b63f8cf8ae3519e145b04ba26fa4eaaa9d63800f134f1675da3372e4665_sk'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at files.forEach.file_name (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:29:19)
+    at Array.forEach (<anonymous>)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:27:9)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:25241) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:25241) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:25408) UnhandledPromiseRejectionWarning: Error: EACCES: permission denied, open '../parametericInsurance_backend/first-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore/add27b63f8cf8ae3519e145b04ba26fa4eaaa9d63800f134f1675da3372e4665_sk'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at files.forEach.file_name (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:29:19)
+    at Array.forEach (<anonymous>)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:27:9)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:25408) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:25408) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:25629) UnhandledPromiseRejectionWarning: Error: EACCES: permission denied, open '../parametericInsurance_backend/first-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore/add27b63f8cf8ae3519e145b04ba26fa4eaaa9d63800f134f1675da3372e4665_sk'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at files.forEach.file_name (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:29:19)
+    at Array.forEach (<anonymous>)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:27:9)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:25629) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:25629) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:25815) UnhandledPromiseRejectionWarning: Error: EACCES: permission denied, open '../parametericInsurance_backend/first-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore/add27b63f8cf8ae3519e145b04ba26fa4eaaa9d63800f134f1675da3372e4665_sk'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at files.forEach.file_name (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:29:19)
+    at Array.forEach (<anonymous>)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:27:9)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:25815) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:25815) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:26862) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, scandir '../parametericInsurance_backend/basic-network/crypto-config/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp/keystore'
+    at Object.fs.readdirSync (fs.js:904:18)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:25:18)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:26862) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:26862) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:27367) UnhandledPromiseRejectionWarning: Error: EACCES: permission denied, open '../parametericInsurance_backend/first-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore/add27b63f8cf8ae3519e145b04ba26fa4eaaa9d63800f134f1675da3372e4665_sk'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at files.forEach.file_name (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:29:19)
+    at Array.forEach (<anonymous>)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:27:9)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:27367) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:27367) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+(node:27676) UnhandledPromiseRejectionWarning: Error: EACCES: permission denied, open '../parametericInsurance_backend/first-network/crypto-config/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp/keystore/add27b63f8cf8ae3519e145b04ba26fa4eaaa9d63800f134f1675da3372e4665_sk'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+    at files.forEach.file_name (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:29:19)
+    at Array.forEach (<anonymous>)
+    at Object.readAllFiles (/home/rpqb-desk-001/blockchain-explorer/app/helper.js:27:9)
+    at Platform.setAdminForClient (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:78:37)
+    at Platform.initialize (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Platform.js:146:18)
+    at <anonymous>
+(node:27676) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:27676) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+Property config.syncStartDate set to  2018/07/10
+
+
+Please open web browser to access ：http://localhost:8080/
+
+
+pid is 28136
+
+
+Insert sql is INSERT INTO peer  ( "requests","genesis_block_hash","server_hostname" ) VALUES( $1,$2,$3  ) RETURNING *;
+Insert sql is INSERT INTO chaincodes  ( "name","version","path","genesis_block_hash" ) VALUES( $1,$2,$3,$4  ) RETURNING *;
+INSERT ID: 2
+INSERT ID: 11
+Insert sql is INSERT INTO channel  ( "name","createdt","blocks","trans","channel_hash","genesis_block_hash" ) VALUES( $1,$2,$3,$4,$5,$6  ) RETURNING *;
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 4
+INSERT ID: 6
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 11
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 7
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 12
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 8
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 13
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 9
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 14
+Insert sql is INSERT INTO blocks  ( "blocknum","prehash","datahash","blockhash","txcount","genesis_block_hash","createdt" ) VALUES( $1,$2,$3,$4,$5,$6,$7  ) RETURNING *;
+INSERT ID: 10
+Insert sql is INSERT INTO transactions  ( "blockid","txhash","createdt","chaincodename","chaincode_id","status","creator_msp_id","endorser_msp_id","type","read_set","write_set","genesis_block_hash","validation_code","envelope_signature","payload_extension","creator_nonce","chaincode_proposal_input","endorser_signature","creator_id_bytes","payload_proposal_hash","endorser_id_bytes" ) VALUES( $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20,$21  ) RETURNING *;
+INSERT ID: 15
+Successfully received the block event[object Object]
+E0817 18:54:02.724090662   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 18:54:20.266811018   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 18:54:21.637232378   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 18:54:24.260013783   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 18:54:28.602339157   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 18:54:36.163764726   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 18:54:45.609810438   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 18:54:59.753430201   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 18:55:37.320354168   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+E0817 18:56:17.756661075   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:28136) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+E0817 18:57:37.965693115   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+E0817 18:59:49.059138043   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 10)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 11)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 12)
+E0817 19:01:56.281960748   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 13)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 14)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 15)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 16)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 17)
+E0817 19:03:50.746107741   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 18)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 19)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 20)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 21)
+E0817 19:05:42.814589701   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 22)
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 23)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 24)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 25)
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+[31merror[39m: [Admin.js]: GetStatus - timed out after:45000
+(node:28136) UnhandledPromiseRejectionWarning: Error: REQUEST_TIMEOUT
+    at Timeout._onTimeout (/home/rpqb-desk-001/blockchain-explorer/app/platform/fabric/Admin.js:124:31)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+(node:28136) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 26)
+E0817 19:07:38.735896341   28136 ssl_transport_security.cc:989] Handshake failed with fatal error SSL_ERROR_SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed.
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Closed out remaining connections
+Closed out remaining connections
+Closed out remaining connections
+Closed out remaining connections
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Received kill signal, shutting down gracefully
+Closed out remaining connections
+Closed out remaining connections
+Closed out remaining connections
+Received kill signal, shutting down gracefully
+Closed out remaining connections
+Received kill signal, shutting down gracefully
+Closed out remaining connections
